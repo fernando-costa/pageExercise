@@ -1,0 +1,53 @@
+body {
+    background-color: #2E3236;
+}
+
+h2 {
+    color: chartreuse;
+    font-family: 'Roboto Slab', serif;
+    font-weight: 900;
+}
+
+p {
+    font-family: 'Source Serif Pro', serif;
+    color: darkcyan;
+}
+
+#from {
+    color: darkgreen;
+}
+
+section.section2 ul li {
+    font-family: 'Ubuntu Mono', monospace;
+    font-size: 400;    
+}
+
+.li-1 {
+    color: #a9a9a9;
+}
+
+.li-2 {
+    color: #a9a9a8;
+}
+
+.li-3 {
+    color: #a9a9a7;
+}
+
+.li-4 {
+    color: #a9a9a6;
+}
+
+#description {
+    font-family: 'VT323', monospace;
+}
+
+/* Defina fontes diferentes para o seu nome e para a descrição que você criou (linha 12);
+
+Defina uma cor base de background do seu Portfólio Web (linha 24);
+
+Altere o estilo das tags que você usou para destacar algumas informações, como sua nacionalidade e a cidade/estado onde mora;
+
+Coloque tamanhos diferentes para os elementos da lista de habilidades que você criou. 
+
+Lembre-se de usar classes para cada um dos elementos; */
